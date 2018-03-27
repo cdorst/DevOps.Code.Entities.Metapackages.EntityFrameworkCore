@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>cdorst</Authors>
+    <Copyright>Copyright © Christopher Dorst</Copyright>
+    <Description>Metapackage for EntityFrameworkCore dependencies</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>https://cdorst-dev.azureedge.net/nuget/package-icon-64.png</PackageIconUrl>
+    <PackageId>CDorst.DevOps.Code.Entities.Metapackages.EntityFrameworkCore</PackageId>
+    <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.Entities.Metapackages.EntityFrameworkCore/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.Entities.Metapackages.EntityFrameworkCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdorst/DevOps.Code.Entities.Metapackages.EntityFrameworkCore</RepositoryUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.0-preview1-final" />
+  </ItemGroup>
+
+</Project>
