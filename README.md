@@ -21,13 +21,25 @@ Name | Status
 ---- | ------
 Microsoft.EntityFrameworkCore | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.EntityFrameworkCore.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
+## Dependents
+
+The projects below use this repository as a direct dependency.
+
+Name | Status
+---- | ------
+[DevOps.Code.DataAccess.Interfaces.Repository](https://github.com/CDorst/DevOps.Code.DataAccess.Interfaces.Repository) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-dataaccess-interfaces-repository.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-dataaccess-interfaces-repository) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.DataAccess.Interfaces.Repository.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.DataAccess.Interfaces.Repository)
+[Addresses.States.DatabaseContext](https://github.com/CDorst/Addresses.States.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-states-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-states-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.States.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.States.DatabaseContext)
+[Entities.FooBars.DatabaseContext](https://github.com/CDorst/Entities.FooBars.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/entities-foobars-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/entities-foobars-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Entities.FooBars.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Entities.FooBars.DatabaseContext)
+[DevOps.Code.Entities.Metapackages.AnnotatedEntityFramework](https://github.com/CDorst/DevOps.Code.Entities.Metapackages.AnnotatedEntityFramework) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-entities-metapackages-annotatedentityf.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-entities-metapackages-annotatedentityf) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.Entities.Metapackages.AnnotatedEntityFramework.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.Metapackages.AnnotatedEntityFramework)
+
 ## NuGet
+
 
 This project is published as a NuGet package at [https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.Metapackages.EntityFrameworkCore](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.Metapackages.EntityFrameworkCore)
 
 ## Version
 
-1.0.4
+1.0.5
 
 ## Metaproject
 
